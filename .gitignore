@@ -1,0 +1,23 @@
+# C++ Build Files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+
+# Build Folders
+build/
+output/
+bin/
+
+# VS Code
+.vscode/
+
+# Temporary Files
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
